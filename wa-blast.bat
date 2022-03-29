@@ -1,0 +1,1 @@
+node wa-blast
